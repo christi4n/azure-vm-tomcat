@@ -2,6 +2,9 @@
 .vscode/
 .history/
 
+# Misc
+.DS_Store
+
 # Local .terraform directories
 .terraform
 
