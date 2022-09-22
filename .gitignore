@@ -4,6 +4,7 @@
 
 # Misc
 .DS_Store
+ssh-keys/
 
 # Local .terraform directories
 .terraform
